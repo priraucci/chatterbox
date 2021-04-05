@@ -31,10 +31,14 @@ You can run the client using the command
 
 For more information about flags and different options refer to the presentation of the project. 
 
+## Folders
+
 In the folder **Testo** you can find the project presentation.
+
 In the folder **Tests** you can find some tests that can be used to try the Project.
+
 In the folder **Relazione** you can find my final report.
 
-## Disclaimer
+### Disclaimer
 This code is highly sensitive to the coding environment. It was developed and tested using Ubuntu17.10.
 
