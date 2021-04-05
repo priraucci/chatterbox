@@ -29,7 +29,7 @@ You can run the client using the command
 ./client -l
 ```
 
-For more information about flags and different options refer to the presentation of the project. 
+For more information about different flags and options available please refer to the presentation of the project. 
 
 ## Folders
 
