@@ -1,1 +1,40 @@
-# chatterbox
+# Chatterbox
+
+Operating Systems and Laboratory Project @ Unipi. Academic year 2016/2017.
+
+The project involves the development of a competing server that implements
+a chat: chatterbox. The name given to the server is chatty.
+
+You can find the project presentation here 
+http://didawiki.di.unipi.it/doku.php/informatica/sol/laboratorio17/progetto
+
+--->sorry! The presentation as well the final report is written in Italian
+
+## How to use it:
+
+Create a temporary foolder, copy the project and use the makefile. 
+
+``` 
+git clone https://github.com/priraucci/chatterbox.git
+cd Chatterbox
+make
+```
+
+Then you can launch the server:
+```
+./chatty -f ./DATA/chatty.conf1
+```
+You can run the client using the command
+```
+./client -l
+```
+
+For more information about flags and different options refer to the presentation of the project. 
+
+In the folder **Testo** you can find the project presentation.
+In the folder **Tests** you can find some tests that can be used to try the Project.
+In the folder **Relazione** you can find my final report.
+
+## Disclaimer
+This code is highly sensitive to the coding environment. It was developed and tested using Ubuntu17.10.
+
