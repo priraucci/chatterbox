@@ -1,0 +1,332 @@
+thread in attesa...
+thread in attesa...
+thread in attesa...
+thread in attesa...
+thread in attesa...
+thread in attesa...
+thread in attesa...
+thread in attesa...
+entro nel whil
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di qui, op 0
+ REGISTER_OP: sender qui
+thread in attesa...
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di paperino, op 0
+ REGISTER_OP: sender paperino
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di topolino, op 0
+ REGISTER_OP: sender topolino
+thread in attesa...
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di minni, op 0
+ REGISTER_OP: sender minni
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di qua, op 0
+ REGISTER_OP: sender qua
+thread in attesa...
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di pluto, op 0
+ REGISTER_OP: sender pluto
+thread in attesa...
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di zio paperone, op 0
+ REGISTER_OP: sender zio paperone
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di pippo, op 0
+ REGISTER_OP: sender pippo
+thread in attesa...
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di quo, op 0
+ REGISTER_OP: sender quo
+thread in attesa...
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di clarabella, op 0
+ REGISTER_OP: sender clarabella
+thread in attesa...
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di pippo, op 1
+ CONNECT_OP: rischiesta di connessione da: pippo
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di qua, op 1
+ CONNECT_OP: rischiesta di connessione da: qua
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di minni, op 1
+ CONNECT_OP: rischiesta di connessione da: minni
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di zio paperone, op 1
+ CONNECT_OP: rischiesta di connessione da: zio paperone
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di clarabella, op 1
+ CONNECT_OP: rischiesta di connessione da: clarabella
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di quo, op 1
+ CONNECT_OP: rischiesta di connessione da: quo
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di qui, op 1
+ CONNECT_OP: rischiesta di connessione da: qui
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di pluto, op 1
+ CONNECT_OP: rischiesta di connessione da: pluto
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di paperino, op 1
+ CONNECT_OP: rischiesta di connessione da: paperino
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di utente0, op 1
+ CONNECT_OP: rischiesta di connessione da: utente0
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di topolino, op 1
+ CONNECT_OP: rischiesta di connessione da: topolino
+thread in attesa...
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di utente1, op 1
+ CONNECT_OP: rischiesta di connessione da: utente1
+thread in attesa...
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di utente2, op 1
+ CONNECT_OP: rischiesta di connessione da: utente2
+thread in attesa...
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di utente3, op 1
+ CONNECT_OP: rischiesta di connessione da: utente3
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di minni, op 2
+ POSTTXT_OP: send: minni  rec: qua   buf:aaaaaaaaaaaaaaaaaaaaaaaaaaa len 28
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di clarabella, op 3
+ POSTTXTALL_OPthread in attesa...
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di utente4, op 1
+ CONNECT_OP: rischiesta di connessione da: utente4
+thread in attesa...
+prima della request handler
+request_handler
+ ---------------- chiudo connessione di client disconnesso 
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di topolino, op 2
+ POSTTXT_OP: send: topolino  rec: minni   buf:aaaaaaaaaaaaaaaaaaaaaaaaaaa len 28
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di minni, op 2
+ POSTTXT_OP: send: minni  rec: pluto   buf:bbbbbbbbbbbbbbbbb len 18
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di zio paperone, op 2
+ POSTTXT_OP: send: zio paperone  rec: clarabella   buf:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa len 51
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di qui, op 2
+ POSTTXT_OP: send: qui  rec: pluto   buf:aaaaaaaaaaaaaaaaaaaaaaaaaaa len 28
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di minni, op 3
+ POSTTXTALL_OPthread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di clarabella, op 4
+ POSTFILE_OPthread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di qua, op 4
+ POSTFILE_OPthread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di topolino, op 2
+ POSTTXT_OP: send: topolino  rec: pluto   buf:bbbbbbbbbbbbbbbbb len 18
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di minni, op 2
+ POSTTXT_OP: send: minni  rec: topolino   buf:ddddddddddddddddddddd len 22
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di clarabella, op 3
+ POSTTXTALL_OPthread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di pippo, op 7
+ USRLIST_OPthread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di quo, op 7
+ USRLIST_OPthread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di minni, op 4
+ POSTFILE_OPthread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di clarabella, op 3
+ POSTTXTALL_OPthread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di zio paperone, op 3
+ POSTTXTALL_OPthread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di qua, op 2
+ POSTTXT_OP: send: qua  rec: pippo   buf:aaaaaaaaaaaaaaaaaaaaaaaaaa len 27
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di qreadOp______: Connection reset by peer
+ui, op 3
+ POSTTXTALL_OPthread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di pluto, op 2
+ POSTTXT_OP: send: pluto  rec: minni   buf:aaaaaaaaaaaaaaaaaaaaaaaaaaa len 28
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di topolino, op 3
+ POSTTXTALL_OPthread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di minni, op 6
+ GETPREVMSGS_OP:GETPREVMSGS_OP: num msg 0
+thread in attesa...
+prima della request handler
+request_handler
+PUSH
+prelevata richiesta; di clarabella, op 3
+ POSTTXTALL_OPthread in attesa...
+prima della request handler
+request_handler
