@@ -33,11 +33,11 @@ For more information about different flags and options available please refer to
 
 ## Folders
 
-In the folder **Testo** you can find the project presentation.
+In the folder **consegna** you can find the project presentation.
 
-In the folder **Tests** you can find some tests that can be used to try the Project.
+In the folder **tests** you can find some tests that can be used to try the Project.
 
-In the folder **Relazione** you can find my final report.
+In the folder **relazione** you can find my final report.
 
 ### Disclaimer
 This code is highly sensitive to the coding environment. It was developed and tested using Ubuntu17.10.
