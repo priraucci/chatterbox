@@ -11,9 +11,9 @@ http://didawiki.di.unipi.it/doku.php/informatica/sol/laboratorio17/progetto
 
 --->sorry! The presentation as well the final report is written in Italian
 
-## How to use it:
+## How to use it
 
-Create a temporary foolder, copy the project and use the makefile. 
+To test the project: 
 
 ``` 
 git clone https://github.com/priraucci/chatterbox.git
@@ -25,7 +25,7 @@ Then you can launch the server:
 ```
 ./chatty -f ./DATA/chatty.conf1
 ```
-You can run the client using the command
+You can run the client using the command:
 ```
 ./client -l tmp/chatty_socket -c pri
 ```
