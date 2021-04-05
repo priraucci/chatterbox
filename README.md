@@ -27,12 +27,16 @@ Then you can launch the server:
 ```
 You can run the client using the command
 ```
-./client -l
+./client -l tmp/chatty_socket -c pri
 ```
+There are multiple flags that can be used, please refer to the <`client.c`> file for the full list. 
 
-For more information about different flags and options available please refer to the presentation of the project. 
+
+For more information about possible settings and operations please refer to the presentation of the project. 
 
 ## Folders
+
+In the folder **DATA** you will find some configuration files.
 
 In the folder **consegna** you can find the project presentation.
 
